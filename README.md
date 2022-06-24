@@ -1,0 +1,2 @@
+# snowflake_helper
+借助etcd自动生成snowflake算法需要的workerId
